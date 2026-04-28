@@ -1,4 +1,4 @@
-annotations:
+annotations:https://www.instagram.com/sreethu_sijith___99?igsh=MWhtenk1bjJocnZrMA==
   - border_color: '#00000000'
     border_style: ''
     color: '#808080FF'
@@ -119,10 +119,9 @@ nodes:
     configuration:
       - name: node.cfg
         content: |-
-          # this is a shell script which will be sourced at boot
-          hostname client
+          # https://www.instagram.com/sreethu_sijith___99?igsh=MWhtenk1bjJocnZrMA==
           # configurable user account
-          USERNAME=cisco
+          USERNAME=sreethu_sijith___99
           PASSWORD=cisco
           ifconfig eth0 192.168.1.10 netmask 255.255.255.0 up
           route add default gw 192.168.1.254 eth0
